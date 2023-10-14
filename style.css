@@ -15,7 +15,7 @@ body{
   justify-content:space-around;
   text-transform:uppercase;
   text-decoration:none;
-  text-color:white;
+  color:white;
   height: 96px;
   display:flex;
 
@@ -31,7 +31,6 @@ top:280px;
 }
 nav{
     margin:auto;
-
 }
 .logo-img{
 margin: 70px auto 50px 50px;
@@ -46,15 +45,12 @@ nav ul li{
   display: inline-block;
 }
 nav ul li a{
-  position: relative
+  position: relative;
   font-size: 17px;
   padding: 7px 13px;
   text-decoration: none;
 
 }
-.home-link{
-}
-
 h3{
 color: white;
 font-family: 'Barlow Condensed', sans-serif;
@@ -72,9 +68,9 @@ h1{
 p{
   color: white;
   width: 40%;
-  line-height: 2;;
-  font-weight:400px
- font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  font-weight:400px;
+ font-family:'Montserrat', sans-serif;
 }
 .Explore{
   color: gray;
